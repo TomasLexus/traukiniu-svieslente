@@ -1,0 +1,33 @@
+[
+    {
+      "pavadinimas": "Vilnius - Kaunas",
+      "isvykimoData": "2024-01-22 08:00",
+      "kelionesTrukme": "02:30",
+      "atvykimoData": "2024-01-22 10:30"
+    },
+    {
+      "pavadinimas": "Vilnius - Varšuva",
+      "isvykimoData": "2024-01-22 09:30",
+      "kelionesTrukme": "05:15",
+      "atvykimoData": "2024-01-22 14:45"
+    },
+    {
+      "pavadinimas": "Kaunas - Klaipėda",
+      "isvykimoData": "2024-01-22 12:45",
+      "kelionesTrukme": "03:45",
+      "atvykimoData": "2024-01-22 16:30"
+    },
+    {
+      "pavadinimas": "Vilnius - Šiauliai",
+      "isvykimoData": "2024-01-22 15:20",
+      "kelionesTrukme": "02:10",
+      "atvykimoData": "2024-01-22 17:30"
+    },
+    {
+      "pavadinimas": "Kaunas - Vilnius",
+      "isvykimoData": "2024-01-22 17:00",
+      "kelionesTrukme": "01:45",
+      "atvykimoData": "2024-01-22 18:45"
+    }
+    ]
+  
